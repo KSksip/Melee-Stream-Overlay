@@ -1,0 +1,14 @@
+{
+    "p1points": 0,
+    "p2points": 2,
+    "p1name": "player",
+    "p2name": "name",    
+    "p1char": "Fox",
+    "p2char": "Dr. Mario",
+    "p1color": "Default",
+    "p2color": "Default",
+    "p1port": "Port 1",
+    "p2port": "Port 1",
+    "bo": "Best of 3",
+    "round": "Round"
+}
